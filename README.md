@@ -22,6 +22,7 @@ https://user-images.githubusercontent.com/88968854/131697523-6aac4680-d67c-4af3-
 > - First one in **Linear Regression**
 > - Second one in **Lasso Regression**
 > - Third one in **Ridge Regression**
+
 ---
 
 # Project 3: [Gas_Price Detector:](https://github.com/Jihadmz/Gas_Price_Detector)
