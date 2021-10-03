@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/88968854/131697523-6aac4680-d67c-4af3-
 > This project is about describing the average lifespan of some animals and humans, as well as comparing both species.
 
 * There were no ready datasets for this project, so I made web scraping on this [site](https://www.futurelearn.com/info/courses/maths-linear-quadratic/0/steps/12167) to extract
-the information from it.
+the information from it and copy it to csv file inorder to derive some visual insights from it
 
 ![](https://user-images.githubusercontent.com/88968854/135761139-8aafddc9-2f03-4120-a41a-3106482c3c9a.png)  
 
