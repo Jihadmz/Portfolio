@@ -44,3 +44,11 @@ the information from it and copy it to csv file inorder to derive some visual in
 ![](https://user-images.githubusercontent.com/88968854/135761139-8aafddc9-2f03-4120-a41a-3106482c3c9a.png)  
 
 ![](https://user-images.githubusercontent.com/88968854/135761635-6a61e0a3-c140-400f-b6b4-89d6092c13ba.png)
+
+---
+
+# Project 5: [Countries avg. income](https://github.com/Jihadmz/Countrie-s-avg-income)
+> This project describes the avg. income in some countries, as well as stating the countries with highest avg. income.
+You can also compare the avg. income of each countries to one another.
+
+![](https://user-images.githubusercontent.com/88968854/135975534-344b3a1d-7385-40a9-a2dd-d4442feeb141.png)
